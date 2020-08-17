@@ -1,13 +1,18 @@
-# EliteMobs
+# EliteMobs Fork
 
-This is the GitHub project for the Minecraft plugin EliteMobs (Spigot page can be seen here: https://www.spigotmc.org/resources/elitemobs.40090/)
+This is a community-maintained fork of EliteMobs by MagmaGuy. Because he is uninterested in accepting contributions, I have started this fork as a place where collaboration can occur on the plugin moving forward.
 
-Feel free to check the source code and do any edits you might deem necessary for your own servers.
+## Features
 
-At this time, I am not interested in accepting contributions to the code. This is my first project of this dimension, and I'd like to have all components of it be written by me.
+ * Mobs - Variety of Elite bosses with unique powers, loot, and combat mechanics
+ * Loot - Custom loot tables, procedurally generated items, custom enchantments, potion effects
+ * Custom Bosses - When the built-in bosses don't provide enough challenge or customization!
+ * Dungeons - Spawn custom mobs in specific worlds
+ * Difficulty Scaling - Spawns mobs based on the quality of your gear
 
-That being said, I am deeply interested in any suggestions, be they for improving existing features or creating new ones.
+## Roadmap
 
-# There's a wiki, it has a few entries, if you want more info maybe try reading it.
+ * MySQL Support
+ * Performance improvements
+ * NPE audit
 
-# //TODO: add description of features and how they work, some day, maybe
